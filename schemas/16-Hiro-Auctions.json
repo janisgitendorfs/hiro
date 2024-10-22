@@ -120,9 +120,9 @@
                     "bid_start"
                   ],
                   "type": "object"
-                },
-                "type": "object"
-              }
+                }
+              },
+              "type": "object"
             }
           },
           "required": [
